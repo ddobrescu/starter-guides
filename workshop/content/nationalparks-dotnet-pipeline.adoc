@@ -216,16 +216,6 @@ You can follow the Pipeline execution from *Pipeline* section, watching all the 
 
 image::images/devops-pipeline-run-1.png[Pipeline runnin
 
-In *Workspaces*-> *app-source* select *PVC* from the list, then select *app-source-pvc*. This is the share volume used by Pipeline Tasks in your Pipeline containing the source code and compiled artifacts.
-
-Click on *Start* to run your Pipeline.
-
-image::images/devops-pipeline-start-2.png[Add parameters]
-
-
-You can follow the Pipeline execution from *Pipeline* section, watching all the steps in g]
-
-The click on the `PipelineRun` *national-parks-deploy-run-*:
 
 image::images/devops-pipeline-run-2.png[Pipeline running animation]
 
